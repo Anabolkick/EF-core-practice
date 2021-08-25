@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Anabolkick\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Anabolkick\\.nuget\\packages"
+    ]
+  }
+}
