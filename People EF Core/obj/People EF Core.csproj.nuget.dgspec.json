@@ -27,11 +27,7 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\Anabolkick\\source\\repos\\RandomNameGen\\RandomNameGen\\RandomNameGen.csproj": {
-                "projectPath": "C:\\Users\\Anabolkick\\source\\repos\\RandomNameGen\\RandomNameGen\\RandomNameGen.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -80,16 +76,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "C:\\Users\\Anabolkick\\source\\repos\\RandomNameGen\\RandomNameGen\\RandomNameGen.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Anabolkick\\source\\repos\\RandomNameGen\\RandomNameGen\\RandomNameGen.csproj",
-        "projectName": "RandomNameGen",
-        "projectPath": "C:\\Users\\Anabolkick\\source\\repos\\RandomNameGen\\RandomNameGen\\RandomNameGen.csproj"
-      },
-      "frameworks": {
-        "net461": {}
       }
     }
   }

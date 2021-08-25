@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "People EF Core", "People EF Core\People EF Core.csproj", "{14F0840C-2D58-4E34-81AB-9030BC7A5F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNameGen", "..\RandomNameGen\RandomNameGen\RandomNameGen.csproj", "{C475972D-7BB6-4630-8118-1882C409CF13}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{14F0840C-2D58-4E34-81AB-9030BC7A5F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F0840C-2D58-4E34-81AB-9030BC7A5F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F0840C-2D58-4E34-81AB-9030BC7A5F72}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C475972D-7BB6-4630-8118-1882C409CF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C475972D-7BB6-4630-8118-1882C409CF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C475972D-7BB6-4630-8118-1882C409CF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C475972D-7BB6-4630-8118-1882C409CF13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

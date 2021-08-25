@@ -1541,15 +1541,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "RandomNameGen/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/RandomNameGen.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/RandomNameGen.dll": {}
-        }
       }
     }
   },
@@ -5856,11 +5847,6 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
-    },
-    "RandomNameGen/1.0.0": {
-      "type": "project",
-      "path": "../../RandomNameGen/RandomNameGen/RandomNameGen.csproj",
-      "msbuildProject": "../../RandomNameGen/RandomNameGen/RandomNameGen.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5868,8 +5854,7 @@
       "Microsoft.AspNetCore.Cryptography.KeyDerivation >= 5.0.9",
       "Microsoft.EntityFrameworkCore >= 5.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.9",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.9",
-      "RandomNameGen >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.9"
     ]
   },
   "packageFolders": {
@@ -5898,11 +5883,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\Anabolkick\\source\\repos\\RandomNameGen\\RandomNameGen\\RandomNameGen.csproj": {
-              "projectPath": "C:\\Users\\Anabolkick\\source\\repos\\RandomNameGen\\RandomNameGen\\RandomNameGen.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

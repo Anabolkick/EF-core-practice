@@ -62,8 +62,6 @@ C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcore
 C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcoreapp3.1\names.json
-C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcoreapp3.1\RandomNameGen.dll
 C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcoreapp3.1\RandomNameGen.pdb
 C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Anabolkick\source\repos\People EF Core\People EF Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll

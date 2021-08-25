@@ -17,7 +17,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\RandomNameGen\RandomNameGen\RandomNameGen.csproj" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RandomNameGen">
+      <HintPath>bin\Debug\netcoreapp3.1\RandomNameGen.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
